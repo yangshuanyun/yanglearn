@@ -11,8 +11,6 @@ public class Account {
     String name;
     String doublance;
 
-
-
     public synchronized  void set(String name ,double banlance ){
 
         this.name=name;
